@@ -99,8 +99,9 @@ The Intelligence Lifecycle is a continuous and iterative process, allowing for o
 
 - Gather data from publicly accessible sources.
 - Examples: websites, social media, news articles, government reports, public records.
-- Utilize search engines, specialized OSINT tools, and manual investigation techniques.
+- Utilize search engines, specialized OSINT tools, trainings, and manual investigation techniques.
   - https://osintcurio.us/
+  - https://www.theosintion.com/
   - https://inteltechniques.com/
   - https://webbreacher.com/
   - https://obsidian.md/
